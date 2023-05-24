@@ -373,7 +373,7 @@ Example:-
 console.log("----------------------------------")
 const point2 = [ 105, 1, 5, 25, 10, 0.5];
 const randonNumber= point2.sort(function(){return 0.5 - Math.random()});
-console.log("Sort number in rendoom order =>  "+randonNumber)
+console.log("Sort number in randoom order =>  "+randonNumber)
 
 /*Output:-
 Sort number in rendoom order =>  105,1,5,25,10,0.5 
